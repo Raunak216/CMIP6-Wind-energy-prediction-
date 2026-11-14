@@ -70,7 +70,7 @@ All analyses incorporate daily simulations from 7 CMIP6 Global Climate Models:
 7. **GFDL-ESM4** (NOAA Geophysical Fluid Dynamics Laboratory, USA)
 
 Scenarios analyzed:
-- **Historical**: 1950–2014 (20-year baseline)
+- **Historical**: 1950–2014
 - **SSP2-4.5**: 2015–2100 (Middle-of-the-road stabilization scenario)
 - **SSP5-8.5**: 2015–2100 (High-emissions fossil-fueled development scenario)
 
