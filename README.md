@@ -1,8 +1,5 @@
-# Climate-Driven Capacity Factor Prediction and Future Energy Yield Assessment of Wind Farms Using CMIP6 Climate Projections
+# CMIP6 WIND ENERGY PREDICTION
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![CMIP6](https://img.shields.io/badge/Data-CMIP6%20WCRP-green.svg)](https://pcmdi.llnl.gov/CMIP6/)
 
 A comprehensive multi-model global assessment of future wind energy potential, capacity factors (CF), and annual energy production (AEP) under climate change scenarios (SSP2-4.5 and SSP5-8.5), based on 7 CMIP6 Global Climate Models (GCMs).
 
@@ -10,8 +7,6 @@ A comprehensive multi-model global assessment of future wind energy potential, c
 
 ## 📑 Research Paper & Deliverables
 
-- **IEEE Research Paper (PDF)**: [`CMIP6/IEEE_Research_Paper.pdf`](CMIP6/IEEE_Research_Paper.pdf)
-- **IEEE Research Paper (Word)**: [`CMIP6/IEEE_Research_Paper.docx`](CMIP6/IEEE_Research_Paper.docx)
 - **Top 100 Real-World Wind Farm Siting Candidates**: [`CMIP6/PHASE8/tables/PHASE8_top100_wind_farm_locations.csv`](CMIP6/PHASE8/tables/PHASE8_top100_wind_farm_locations.csv)
 - **Optimal Hub Height Map**: [`CMIP6/PHASE8/figures/PHASE8_global_optimal_hub_height_map.png`](CMIP6/PHASE8/figures/PHASE8_global_optimal_hub_height_map.png)
 
@@ -96,15 +91,6 @@ Scenarios analyzed:
 
 ---
 
-## ⚙️ Requirements & Installation
-
-```bash
-git clone https://github.com/Raunak216/CMIP6-Wind-energy-prediction-.git
-cd CMIP6-Wind-energy-prediction-
-
-# Install required Python libraries
-pip install numpy pandas xarray matplotlib shapely
-```
 
 ---
 
