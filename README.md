@@ -27,8 +27,6 @@ A comprehensive multi-model global assessment of future wind energy potential, c
 │   └── phase8.py                    # Global optimal hub height selection & Top 100 practical sites
 │
 ├── CMIP6/
-│   ├── IEEE_Research_Paper.pdf      # Complete 7-page IEEE-formatted research paper
-│   ├── IEEE_Research_Paper.docx     # Editable Word format
 │   ├── PHASE1/summaries/            # Wind speed summaries & ACCESS recovery diagnostics
 │   ├── PHASE2/summaries/            # Extrapolated hub-height wind statistics
 │   ├── PHASE3/summaries/            # Turbine-specific generation summaries
@@ -72,9 +70,9 @@ All analyses incorporate daily simulations from 7 CMIP6 Global Climate Models:
 7. **GFDL-ESM4** (NOAA Geophysical Fluid Dynamics Laboratory, USA)
 
 Scenarios analyzed:
-- **Historical**: 1995–2014 (20-year baseline)
-- **SSP2-4.5**: 2041–2060 (Middle-of-the-road stabilization scenario)
-- **SSP5-8.5**: 2041–2060 (High-emissions fossil-fueled development scenario)
+- **Historical**: 1950–2014 (20-year baseline)
+- **SSP2-4.5**: 2015–2100 (Middle-of-the-road stabilization scenario)
+- **SSP5-8.5**: 2015–2100 (High-emissions fossil-fueled development scenario)
 
 ---
 
