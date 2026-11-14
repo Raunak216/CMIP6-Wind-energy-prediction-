@@ -1,0 +1,26 @@
+Phase,Metric_Category,Scenario_or_Case,Hub_Height,Primary_Value,Secondary_Value,Key_Interpretation
+Phase 1: Raw Daily Wind Speed,Near-Surface Wind Speed (10 m),historical,10 m,5.95 m/s,"Min: 0.00, Max: 48.15 m/s",Vector magnitude V10 across 7 CMIP6 models. Zero missing timesteps.
+Phase 1: Raw Daily Wind Speed,Near-Surface Wind Speed (10 m),ssp245,10 m,5.98 m/s,"Min: 0.00, Max: 47.04 m/s",Vector magnitude V10 across 7 CMIP6 models. Zero missing timesteps.
+Phase 1: Raw Daily Wind Speed,Near-Surface Wind Speed (10 m),ssp585,10 m,5.99 m/s,"Min: 0.00, Max: 46.74 m/s",Vector magnitude V10 across 7 CMIP6 models. Zero missing timesteps.
+Phase 4: Harmonized Ensemble (1.25°),Global Ensemble Generation,historical,80 m,CF: 25.40%,AEP: 6.675 GWh/yr per 3MW turbine,100% finite grid coverage; 97.2% cells have all 7 models.
+Phase 4: Harmonized Ensemble (1.25°),Global Ensemble Generation,historical,100 m,CF: 27.04%,AEP: 7.106 GWh/yr per 3MW turbine,100% finite grid coverage; 97.2% cells have all 7 models.
+Phase 4: Harmonized Ensemble (1.25°),Global Ensemble Generation,historical,120 m,CF: 28.39%,AEP: 7.460 GWh/yr per 3MW turbine,100% finite grid coverage; 97.2% cells have all 7 models.
+Phase 4: Harmonized Ensemble (1.25°),Global Ensemble Generation,ssp245,80 m,CF: 25.65%,AEP: 6.740 GWh/yr per 3MW turbine,100% finite grid coverage; 97.2% cells have all 7 models.
+Phase 4: Harmonized Ensemble (1.25°),Global Ensemble Generation,ssp245,100 m,CF: 27.29%,AEP: 7.173 GWh/yr per 3MW turbine,100% finite grid coverage; 97.2% cells have all 7 models.
+Phase 4: Harmonized Ensemble (1.25°),Global Ensemble Generation,ssp245,120 m,CF: 28.65%,AEP: 7.528 GWh/yr per 3MW turbine,100% finite grid coverage; 97.2% cells have all 7 models.
+Phase 4: Harmonized Ensemble (1.25°),Global Ensemble Generation,ssp585,80 m,CF: 25.71%,AEP: 6.756 GWh/yr per 3MW turbine,100% finite grid coverage; 97.2% cells have all 7 models.
+Phase 4: Harmonized Ensemble (1.25°),Global Ensemble Generation,ssp585,100 m,CF: 27.36%,AEP: 7.189 GWh/yr per 3MW turbine,100% finite grid coverage; 97.2% cells have all 7 models.
+Phase 4: Harmonized Ensemble (1.25°),Global Ensemble Generation,ssp585,120 m,CF: 28.71%,AEP: 7.545 GWh/yr per 3MW turbine,100% finite grid coverage; 97.2% cells have all 7 models.
+Phase 5: Comparison & Resilience,Model Agreement at 100 m,ssp245,100 m,Increase: 43.0%,Decrease: 56.7%,Slight mid-latitude terrestrial stilling balanced by subpolar/ocean expansion.
+Phase 5: Comparison & Resilience,Model Agreement at 100 m,ssp585,100 m,Increase: 42.1%,Decrease: 57.7%,Slight mid-latitude terrestrial stilling balanced by subpolar/ocean expansion.
+Phase 6: Seasonal Dynamics,Seasonal CF (100 m) — DJF,Historical baseline & SSP245 shift,100 m,27.06%,SSP245 shift: -0.089 pp,JJA is globally peak wind season; MAM exhibits largest climate vulnerability.
+Phase 6: Seasonal Dynamics,Seasonal CF (100 m) — MAM,Historical baseline & SSP245 shift,100 m,26.83%,SSP245 shift: -0.181 pp,JJA is globally peak wind season; MAM exhibits largest climate vulnerability.
+Phase 6: Seasonal Dynamics,Seasonal CF (100 m) — JJA,Historical baseline & SSP245 shift,100 m,27.66%,SSP245 shift: +0.046 pp,JJA is globally peak wind season; MAM exhibits largest climate vulnerability.
+Phase 6: Seasonal Dynamics,Seasonal CF (100 m) — SON,Historical baseline & SSP245 shift,100 m,27.05%,SSP245 shift: -0.034 pp,JJA is globally peak wind season; MAM exhibits largest climate vulnerability.
+Phase 7: Robust Region Screening,Tier 1 Candidates: Land-Dominant,Screened Future Yield,100 m,21 qualified sites,"Mean CF: 22.2%, Mean AEP: 5.84 GWh",100% 7-model agreement. Top land: Patagonia (Score 95.4). Ocean: Roaring Forties.
+Phase 7: Robust Region Screening,Tier 1 Candidates: Coastal/Mixed,Screened Future Yield,100 m,5 qualified sites,"Mean CF: 24.1%, Mean AEP: 6.32 GWh",100% 7-model agreement. Top land: Patagonia (Score 95.4). Ocean: Roaring Forties.
+Phase 7: Robust Region Screening,Tier 1 Candidates: Ocean-Dominant,Screened Future Yield,100 m,1667 qualified sites,"Mean CF: 66.5%, Mean AEP: 17.47 GWh",100% 7-model agreement. Top land: Patagonia (Score 95.4). Ocean: Roaring Forties.
+Phase 8: Hub Height Optimization,Optimal Height: 120m,Economic LCOE-Minimized,120m,"24,216 cells (58.4%)","Land: 9,041, Ocean: 14,748",120m dominates land (+24% yield gain); 80m/100m optimal offshore due to wind saturation.
+Phase 8: Hub Height Optimization,Optimal Height: 100m,Economic LCOE-Minimized,100m,"7,750 cells (18.7%)","Land: 1,411, Ocean: 6,278",120m dominates land (+24% yield gain); 80m/100m optimal offshore due to wind saturation.
+Phase 8: Hub Height Optimization,Optimal Height: 80m,Economic LCOE-Minimized,80m,"6,870 cells (16.6%)","Land: 418, Ocean: 6,435",120m dominates land (+24% yield gain); 80m/100m optimal offshore due to wind saturation.
+Phase 8: Hub Height Optimization,Optimal Height: Non-Viable,Economic LCOE-Minimized,Non-Viable,"2,636 cells (6.4%)","Land: 2,586, Ocean: 29",120m dominates land (+24% yield gain); 80m/100m optimal offshore due to wind saturation.

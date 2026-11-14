@@ -1,0 +1,10 @@
+hub_height_m,surface_class,total_grid_cells,eligible_grid_cells,unscored_grid_cells,historical_cf_below_0p01_cells_diagnostic_only,low_baseline_threshold_used_to_exclude_cells,finite_phase_inputs_expected,minimum_models_for_scoring,minimum_models_for_tier1,too_few_valid_models,undefined_conservative_future_cf,undefined_seasonal_cf_floor,undefined_annual_cf_change,undefined_interannual_cv,undefined_annual_model_spread_cv,undefined_ssp_scenario_difference,undefined_seasonal_nondecline_agreement
+80.0,coastal_mixed,526,526,0,14,False,True,2,5,0,0,0,0,0,0,0,0
+80.0,land_dominant,13456,13456,0,1668,False,True,2,5,0,0,0,0,0,0,0,0
+80.0,ocean_dominant,27490,27490,0,13,False,True,2,5,0,0,0,0,0,0,0,0
+100.0,coastal_mixed,526,526,0,12,False,True,2,5,0,0,0,0,0,0,0,0
+100.0,land_dominant,13456,13456,0,1490,False,True,2,5,0,0,0,0,0,0,0,0
+100.0,ocean_dominant,27490,27490,0,11,False,True,2,5,0,0,0,0,0,0,0,0
+120.0,coastal_mixed,526,526,0,10,False,True,2,5,0,0,0,0,0,0,0,0
+120.0,land_dominant,13456,13456,0,1372,False,True,2,5,0,0,0,0,0,0,0,0
+120.0,ocean_dominant,27490,27490,0,7,False,True,2,5,0,0,0,0,0,0,0,0

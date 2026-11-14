@@ -1,0 +1,97 @@
+scenario,baseline,season,hub_height_m,metric,area_weighted_mean_change,change_units,area_weighted_mean_positive_change_agreement_percent,mean_valid_model_count
+ssp245,historical,DJF,80.0,capacity_factor,-0.08894273252390539,percentage points,43.56729905801889,6.9980963299014025
+ssp245,historical,DJF,80.0,aep_gwh_per_year,-0.023374149195452797,GWh/year per 3-MW turbine,43.56729905801889,6.9980963299014025
+ssp245,historical,DJF,80.0,seasonal_energy_gwh_per_season,-0.005779498662570952,GWh/standardized season per 3-MW turbine,43.56729905801889,6.9980963299014025
+ssp245,historical,DJF,80.0,mean_wind_speed_hubheight_ms,-0.003420127798070342,m/s,45.520507555048084,6.9980963299014025
+ssp245,historical,DJF,100.0,capacity_factor,-0.08853683625433259,percentage points,43.92554879535467,6.9980963299014025
+ssp245,historical,DJF,100.0,aep_gwh_per_year,-0.02326747958605198,GWh/year per 3-MW turbine,43.92554879535467,6.9980963299014025
+ssp245,historical,DJF,100.0,seasonal_energy_gwh_per_season,-0.005753122825979667,GWh/standardized season per 3-MW turbine,43.92554879535467,6.9980963299014025
+ssp245,historical,DJF,100.0,mean_wind_speed_hubheight_ms,-0.0035309094124724347,m/s,45.52103169085972,6.9980963299014025
+ssp245,historical,DJF,120.0,capacity_factor,-0.08631902046180151,percentage points,44.25327452677841,6.9980963299014025
+ssp245,historical,DJF,120.0,aep_gwh_per_year,-0.022684639449434833,GWh/year per 3-MW turbine,44.25327452677841,6.9980963299014025
+ssp245,historical,DJF,120.0,seasonal_energy_gwh_per_season,-0.005609010043111787,GWh/standardized season per 3-MW turbine,44.25327452677841,6.9980963299014025
+ssp245,historical,DJF,120.0,mean_wind_speed_hubheight_ms,-0.003624083805465264,m/s,45.52103169085972,6.9980963299014025
+ssp245,historical,MAM,80.0,capacity_factor,-0.1734744860266498,percentage points,41.575366349266766,6.9980963299014025
+ssp245,historical,MAM,80.0,aep_gwh_per_year,-0.04558909710258578,GWh/year per 3-MW turbine,41.575366349266766,6.9980963299014025
+ssp245,historical,MAM,80.0,seasonal_energy_gwh_per_season,-0.011490950245995488,GWh/standardized season per 3-MW turbine,41.575366349266766,6.9980963299014025
+ssp245,historical,MAM,80.0,mean_wind_speed_hubheight_ms,-0.01227239469484095,m/s,43.7526226152309,6.9980963299014025
+ssp245,historical,MAM,100.0,capacity_factor,-0.1806383910400886,percentage points,41.832484882018925,6.9980963299014025
+ssp245,historical,MAM,100.0,aep_gwh_per_year,-0.047471769544876,GWh/year per 3-MW turbine,41.832484882018925,6.9980963299014025
+ssp245,historical,MAM,100.0,seasonal_energy_gwh_per_season,-0.011965487269900828,GWh/standardized season per 3-MW turbine,41.832484882018925,6.9980963299014025
+ssp245,historical,MAM,100.0,mean_wind_speed_hubheight_ms,-0.012669911002375652,m/s,43.7526226152309,6.9980963299014025
+ssp245,historical,MAM,120.0,capacity_factor,-0.18450542164858114,percentage points,42.10043807414925,6.9980963299014025
+ssp245,historical,MAM,120.0,aep_gwh_per_year,-0.04848802319127248,GWh/year per 3-MW turbine,42.10043807414925,6.9980963299014025
+ssp245,historical,MAM,120.0,seasonal_energy_gwh_per_season,-0.012221638296360441,GWh/standardized season per 3-MW turbine,42.10043807414925,6.9980963299014025
+ssp245,historical,MAM,120.0,mean_wind_speed_hubheight_ms,-0.013004246198201588,m/s,43.7526226152309,6.9980963299014025
+ssp245,historical,JJA,80.0,capacity_factor,0.05779700775341581,percentage points,48.12846700943811,6.9980963299014025
+ssp245,historical,JJA,80.0,aep_gwh_per_year,0.015189053713268692,GWh/year per 3-MW turbine,48.12846700943811,6.9980963299014025
+ssp245,historical,JJA,80.0,seasonal_energy_gwh_per_season,0.003828473255804997,GWh/standardized season per 3-MW turbine,48.12846700943811,6.9980963299014025
+ssp245,historical,JJA,80.0,mean_wind_speed_hubheight_ms,0.018841664811043737,m/s,49.47842777150783,6.9980963299014025
+ssp245,historical,JJA,100.0,capacity_factor,0.04624439521917573,percentage points,48.17529222815061,6.9980963299014025
+ssp245,historical,JJA,100.0,aep_gwh_per_year,0.012153025871571948,GWh/year per 3-MW turbine,48.17529222815061,6.9980963299014025
+ssp245,historical,JJA,100.0,seasonal_energy_gwh_per_season,0.0030632287057732292,GWh/standardized season per 3-MW turbine,48.17529222815061,6.9980963299014025
+ssp245,historical,JJA,100.0,mean_wind_speed_hubheight_ms,0.019451970310518124,m/s,49.47842777150783,6.9980963299014025
+ssp245,historical,JJA,120.0,capacity_factor,0.03499320940838462,percentage points,48.16313322356243,6.9980963299014025
+ssp245,historical,JJA,120.0,aep_gwh_per_year,0.009196217344625059,GWh/year per 3-MW turbine,48.16313322356243,6.9980963299014025
+ssp245,historical,JJA,120.0,seasonal_energy_gwh_per_season,0.002317949992285189,GWh/standardized season per 3-MW turbine,48.16313322356243,6.9980963299014025
+ssp245,historical,JJA,120.0,mean_wind_speed_hubheight_ms,0.01996526930065093,m/s,49.47842777150783,6.9980963299014025
+ssp245,historical,SON,80.0,capacity_factor,-0.024777739163276812,percentage points,44.89351158373117,6.9980963299014025
+ssp245,historical,SON,80.0,aep_gwh_per_year,-0.006511590538588762,GWh/year per 3-MW turbine,44.89351158373117,6.9980963299014025
+ssp245,historical,SON,80.0,seasonal_energy_gwh_per_season,-0.0016234382427282588,GWh/standardized season per 3-MW turbine,44.89351158373117,6.9980963299014025
+ssp245,historical,SON,80.0,mean_wind_speed_hubheight_ms,0.006371621997232914,m/s,46.549702326518585,6.9980963299014025
+ssp245,historical,SON,100.0,capacity_factor,-0.03422721463881559,percentage points,44.98764004490721,6.9980963299014025
+ssp245,historical,SON,100.0,aep_gwh_per_year,-0.008994909827692988,GWh/year per 3-MW turbine,44.98802712864077,6.9980963299014025
+ssp245,historical,SON,100.0,seasonal_energy_gwh_per_season,-0.002242566118272025,GWh/standardized season per 3-MW turbine,44.98764004490721,6.9980963299014025
+ssp245,historical,SON,100.0,mean_wind_speed_hubheight_ms,0.006578005301950049,m/s,46.549702326518585,6.9980963299014025
+ssp245,historical,SON,120.0,capacity_factor,-0.04255358375947593,percentage points,44.9958958048911,6.9980963299014025
+ssp245,historical,SON,120.0,aep_gwh_per_year,-0.011183080866955545,GWh/year per 3-MW turbine,44.9958958048911,6.9980963299014025
+ssp245,historical,SON,120.0,seasonal_energy_gwh_per_season,-0.002788110996078749,GWh/standardized season per 3-MW turbine,44.9958958048911,6.9980963299014025
+ssp245,historical,SON,120.0,mean_wind_speed_hubheight_ms,0.006751585746517197,m/s,46.549702326518585,6.9980963299014025
+ssp585,historical,DJF,80.0,capacity_factor,-0.2596541678458174,percentage points,42.027150959671545,6.9980963299014025
+ssp585,historical,DJF,80.0,aep_gwh_per_year,-0.06823711702849088,GWh/year per 3-MW turbine,42.027150959671545,6.9980963299014025
+ssp585,historical,DJF,80.0,seasonal_energy_gwh_per_season,-0.01687232775260984,GWh/standardized season per 3-MW turbine,42.027150959671545,6.9980963299014025
+ssp585,historical,DJF,80.0,mean_wind_speed_hubheight_ms,-0.02060906163817953,m/s,43.730498363877594,6.9980963299014025
+ssp585,historical,DJF,100.0,capacity_factor,-0.26470981658127046,percentage points,42.394520391664045,6.9980963299014025
+ssp585,historical,DJF,100.0,aep_gwh_per_year,-0.06956574115269244,GWh/year per 3-MW turbine,42.394520391664045,6.9980963299014025
+ssp585,historical,DJF,100.0,seasonal_energy_gwh_per_season,-0.017200843659949585,GWh/standardized season per 3-MW turbine,42.394520391664045,6.9980963299014025
+ssp585,historical,DJF,100.0,mean_wind_speed_hubheight_ms,-0.021276614204453967,m/s,43.730498363877594,6.9980963299014025
+ssp585,historical,DJF,120.0,capacity_factor,-0.26567712095931895,percentage points,42.70724545833178,6.9980963299014025
+ssp585,historical,DJF,120.0,aep_gwh_per_year,-0.06981994730168685,GWh/year per 3-MW turbine,42.70724545833178,6.9980963299014025
+ssp585,historical,DJF,120.0,seasonal_energy_gwh_per_season,-0.017263699349075658,GWh/standardized season per 3-MW turbine,42.70724545833178,6.9980963299014025
+ssp585,historical,DJF,120.0,mean_wind_speed_hubheight_ms,-0.021838060717729244,m/s,43.73002685519834,6.9980963299014025
+ssp585,historical,MAM,80.0,capacity_factor,-0.27539568055268704,percentage points,40.88748285219312,6.9980963299014025
+ssp585,historical,MAM,80.0,aep_gwh_per_year,-0.07237398650693203,GWh/year per 3-MW turbine,40.88753588692001,6.9980963299014025
+ssp585,historical,MAM,80.0,seasonal_energy_gwh_per_season,-0.01824220966315608,GWh/standardized season per 3-MW turbine,40.88753588692001,6.9980963299014025
+ssp585,historical,MAM,80.0,mean_wind_speed_hubheight_ms,-0.019827682034297266,m/s,43.13405022438428,6.9980963299014025
+ssp585,historical,MAM,100.0,capacity_factor,-0.2872386786647976,percentage points,41.171891645749554,6.9980963299014025
+ssp585,historical,MAM,100.0,aep_gwh_per_year,-0.07548632620734327,GWh/year per 3-MW turbine,41.171891645749554,6.9980963299014025
+ssp585,historical,MAM,100.0,seasonal_energy_gwh_per_season,-0.019026690590132515,GWh/standardized season per 3-MW turbine,41.171891645749554,6.9980963299014025
+ssp585,historical,MAM,100.0,mean_wind_speed_hubheight_ms,-0.020469924352867864,m/s,43.13392735885737,6.9980963299014025
+ssp585,historical,MAM,120.0,capacity_factor,-0.29419409183892237,percentage points,41.42408234701942,6.9980963299014025
+ssp585,historical,MAM,120.0,aep_gwh_per_year,-0.07731420809435442,GWh/year per 3-MW turbine,41.42408234701942,6.9980963299014025
+ssp585,historical,MAM,120.0,seasonal_energy_gwh_per_season,-0.01948741619312903,GWh/standardized season per 3-MW turbine,41.42408234701942,6.9980963299014025
+ssp585,historical,MAM,120.0,mean_wind_speed_hubheight_ms,-0.02101008621168208,m/s,43.13405022438428,6.9980963299014025
+ssp585,historical,JJA,80.0,capacity_factor,-0.00017261133306472245,percentage points,47.62086501566924,6.9980963299014025
+ssp585,historical,JJA,80.0,aep_gwh_per_year,-4.5364253561494394e-05,GWh/year per 3-MW turbine,47.62086501566924,6.9980963299014025
+ssp585,historical,JJA,80.0,seasonal_energy_gwh_per_season,-1.1434273740488196e-05,GWh/standardized season per 3-MW turbine,47.62086501566924,6.9980963299014025
+ssp585,historical,JJA,80.0,mean_wind_speed_hubheight_ms,0.016902416447652766,m/s,48.77592375385685,6.9980963299014025
+ssp585,historical,JJA,100.0,capacity_factor,-0.018666061280803507,percentage points,47.63557500113734,6.9980963299014025
+ssp585,historical,JJA,100.0,aep_gwh_per_year,-0.004905442174206736,GWh/year per 3-MW turbine,47.63557500113734,6.9980963299014025
+ssp585,historical,JJA,100.0,seasonal_energy_gwh_per_season,-0.0012364400406694506,GWh/standardized season per 3-MW turbine,47.63557500113734,6.9980963299014025
+ssp585,historical,JJA,100.0,mean_wind_speed_hubheight_ms,0.017449905985225903,m/s,48.77592375385685,6.9980963299014025
+ssp585,historical,JJA,120.0,capacity_factor,-0.035582769897526276,percentage points,47.592711921055844,6.9980963299014025
+ssp585,historical,JJA,120.0,aep_gwh_per_year,-0.00935115174903672,GWh/year per 3-MW turbine,47.592711921055844,6.9980963299014025
+ssp585,historical,JJA,120.0,seasonal_energy_gwh_per_season,-0.002357002946568787,GWh/standardized season per 3-MW turbine,47.592711921055844,6.9980963299014025
+ssp585,historical,JJA,120.0,mean_wind_speed_hubheight_ms,0.017910375979254083,m/s,48.77592375385685,6.9980963299014025
+ssp585,historical,SON,80.0,capacity_factor,-0.05979482820053297,percentage points,45.03285258378227,6.9980963299014025
+ssp585,historical,SON,80.0,aep_gwh_per_year,-0.015714081471881455,GWh/year per 3-MW turbine,45.03285258378227,6.9980963299014025
+ssp585,historical,SON,80.0,seasonal_energy_gwh_per_season,-0.003917757967663788,GWh/standardized season per 3-MW turbine,45.03285258378227,6.9980963299014025
+ssp585,historical,SON,80.0,mean_wind_speed_hubheight_ms,0.00609191082273317,m/s,46.59113097389808,6.9980963299014025
+ssp585,historical,SON,100.0,capacity_factor,-0.07370477141829512,percentage points,45.13521013792848,6.9980963299014025
+ssp585,historical,SON,100.0,aep_gwh_per_year,-0.019369612178303488,GWh/year per 3-MW turbine,45.13521013792848,6.9980963299014025
+ssp585,historical,SON,100.0,seasonal_energy_gwh_per_season,-0.00482913589413637,GWh/standardized season per 3-MW turbine,45.13521013792848,6.9980963299014025
+ssp585,historical,SON,100.0,mean_wind_speed_hubheight_ms,0.006289235417862149,m/s,46.59113097389808,6.9980963299014025
+ssp585,historical,SON,120.0,capacity_factor,-0.0856347747152629,percentage points,45.21403254720276,6.9980963299014025
+ssp585,historical,SON,120.0,aep_gwh_per_year,-0.02250481698566105,GWh/year per 3-MW turbine,45.21380924136084,6.9980963299014025
+ssp585,historical,SON,120.0,seasonal_energy_gwh_per_season,-0.005610790583493812,GWh/standardized season per 3-MW turbine,45.21403254720276,6.9980963299014025
+ssp585,historical,SON,120.0,mean_wind_speed_hubheight_ms,0.0064551946852379125,m/s,46.59113097389808,6.9980963299014025

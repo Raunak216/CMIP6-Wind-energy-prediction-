@@ -1,0 +1,7 @@
+model,experiment,error
+ACCESS-CM2,historical,ValueError('zero-size array to reduction operation fmin which has no identity')
+ACCESS-CM2,ssp245,ValueError('zero-size array to reduction operation fmin which has no identity')
+ACCESS-CM2,ssp585,ValueError('zero-size array to reduction operation fmin which has no identity')
+ACCESS-ESM1-5,historical,ValueError('zero-size array to reduction operation fmin which has no identity')
+ACCESS-ESM1-5,ssp245,ValueError('zero-size array to reduction operation fmin which has no identity')
+ACCESS-ESM1-5,ssp585,ValueError('zero-size array to reduction operation fmin which has no identity')

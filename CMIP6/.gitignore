@@ -1,0 +1,90 @@
+# ==============================================================================
+# CMIP6 Wind Energy Assessment Project - .gitignore (CMIP6 Folder)
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. IGNORE ALL NETCDF AND HEAVY SCIENTIFIC BINARY DATA (400+ GB)
+# ------------------------------------------------------------------------------
+*.nc
+*.nc4
+*.nc.*
+*.cdf
+*.h5
+*.hdf5
+*.dat
+*.grib
+*.grib2
+*.grb
+
+# ------------------------------------------------------------------------------
+# 2. IGNORE ALL JSON METADATA, EVALUATIONS, AND RUN MANIFEST FILES
+# ------------------------------------------------------------------------------
+*.json
+*manifest*
+*Manifest*
+
+# ------------------------------------------------------------------------------
+# 3. IGNORE RAW CMIP6 CLIMATE MODEL SOURCE DATA DIRECTORIES
+# ------------------------------------------------------------------------------
+ACCESS-CM2/
+ACCESS-ESM1-5/
+BCC-CSM2-MR/
+CanESM5/
+CMCC-CM2-SR5/
+CNRM-CM6-1/
+EC-Earth3/
+GFDL-CM4/
+GFDL-ESM4/
+**/ACCESS-CM2/
+**/ACCESS-ESM1-5/
+**/BCC-CSM2-MR/
+**/CanESM5/
+**/CMCC-CM2-SR5/
+**/CNRM-CM6-1/
+**/EC-Earth3/
+**/GFDL-CM4/
+**/GFDL-ESM4/
+
+# ------------------------------------------------------------------------------
+# 4. IGNORE INTERMEDIATE PROCESSED SPATIAL NETCDF OUTPUT DIRECTORIES
+# ------------------------------------------------------------------------------
+**/native_spatial/
+**/model_seasonal_1p25deg/
+**/ensemble/
+**/changes/
+**/fields/
+**/netcdf/
+
+# ------------------------------------------------------------------------------
+# 5. IGNORE BACKUP, ARCHIVE, AND TEMPORARY WORKING DIRECTORIES
+# ------------------------------------------------------------------------------
+New folder/
+AUDIT/
+DIAGNOSTICS/
+**/New folder/
+**/AUDIT/
+**/DIAGNOSTICS/
+
+# ------------------------------------------------------------------------------
+# 6. IGNORE PYTHON CACHES, ENVIRONMENTS, AND LOGS
+# ------------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.tmp
+*.temp
+.ipynb_checkpoints/
+venv/
+.env
+
+# ------------------------------------------------------------------------------
+# 7. IGNORE OS AND IDE METADATA
+# ------------------------------------------------------------------------------
+.vscode/
+.idea/
+*.suo
+*.user
+Thumbs.db
+Desktop.ini
+.DS_Store
