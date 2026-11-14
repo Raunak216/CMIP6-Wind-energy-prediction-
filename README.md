@@ -89,6 +89,5 @@ Scenarios analyzed:
    - **North American Great Plains (US/Canada)**: Highly robust continental wind corridor (CF 38%–45%) directly tied into major transmission interconnections.
    - **Nordic & North Sea Coastal Regions (Norway, UK, Denmark)**: Strong offshore wind yields (CF 42%–50%) with seasonal peaking aligned with winter heating demand.
 
----
 
 
