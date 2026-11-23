@@ -47,8 +47,8 @@ A comprehensive multi-model global assessment of future wind energy potential, c
 | Phase | Core Function | Primary Output |
 | :---: | :--- | :--- |
 | **Phase 1** | Daily Near-Surface Wind Extraction | 21 processed NetCDF daily series across 7 models |
-| **Phase 2** | Power-Law Vertical Extrapolation | Hub-height wind speeds (80m, 100m, 120m, 150m, 200m) |
-| **Phase 3** | Aero-Electric Turbine Power Modeling | Daily CF & AEP across 4 turbine classes (2 MW to 8 MW) |
+| **Phase 2** | Power-Law Vertical Extrapolation | Hub-height wind speeds (80m, 100m, 120m) |
+| **Phase 3** | Aero-Electric Turbine Power Modeling | Daily CF & AEP for 3MW turbine |
 | **Phase 3B**| Native Grid Spatial Aggregation | Native grid means, percentiles, and annual statistics |
 | **Phase 4** | 1.25° Regridding & 7-Model Ensemble | Harmonized global common-grid Multi-Model Ensemble (MME) |
 | **Phase 5** | Long-Term Climate Risk Indices | Climate Resiliency Index (CRI), FYRI, and consensus agreement |
